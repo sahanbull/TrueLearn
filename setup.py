@@ -19,5 +19,5 @@ setup(
         'scikit-learn>=0.19.1',
         'pyspark==2.4.3',
         'trueskill==0.4.5',
-        'mpmath==1.1.0']
+        'mpmath==1.3.0']
 )
